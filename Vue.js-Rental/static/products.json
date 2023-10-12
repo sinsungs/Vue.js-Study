@@ -1,0 +1,105 @@
+{
+  "products":[
+    {
+      "id": 1001,
+      "title": "로댄티",
+      "name" : "EXC 와이드데님팬츠 (6컬러)",
+      "price": 53000,
+      "state": "대여중",
+      "image": "https://image.brandi.me/cproduct/2022/10/13/SB000000000043442917_1665672894_image1_S.jpeg",
+      "availableInventory": 10,
+      "rating": 3,
+      "category": "top"
+    },
+    {
+      "id": 1002,
+      "title": "로니제이",
+      "name" : "EXC 와이드데님팬츠 (6컬러)",
+      "price": 40000,
+      "state": "대여가능",
+      "image": "https://image.brandi.me/cproduct/2022/09/21/SB000000000072662544_1663742746_image1_S.jpeg",
+      "availableInventory": 10,
+      "rating": 5,
+      "category": "top"
+    },
+    {
+      "id": 1003,
+      "title": "맨즈셀렉터",
+      "name" : "EXC 와이드데님팬츠 (6컬러)",
+      "price": 53000,
+      "state": "대여중",
+      "image": "https://image.brandi.me/cproduct/2022/10/13/SB000000000043442917_1665672894_image1_S.jpeg",
+      "availableInventory": 10,
+      "rating": 4,
+      "category": "top"
+    },
+    {
+      "id": 1004,
+      "title": "마인드핏",
+      "name" : "EXC 와이드데님팬츠 (6컬러)",
+      "price": 33000,
+      "state": "대여중",
+      "image": "https://image.brandi.me/cproduct/2022/11/11/SB000000000076780165_1668144997_image1_S.jpeg",
+      "availableInventory": 11,
+      "rating": 2,
+      "category": "outer"
+      
+    },
+    {
+      "id": 1005,
+      "title": "제로스샵",
+      "name" : "EXC 와이드데님팬츠 (6컬러)",
+      "price": 33000,
+      "state": "대여가능",
+      "image": "https://image.brandi.me/cproduct/2021/09/29/SB000000000040113435_1632892613_image1_S.jpeg",
+      "availableInventory": 10,
+      "rating": 1,
+      "category": "outer"
+    },
+    {
+      "id": 1006,
+      "title": "단골스타일",
+      "name" : "EXC 와이드데님팬츠 (6컬러)",
+      "price": 90000,
+      "state": "대여중",
+      "image": "https://image.brandi.me/cproduct/2022/10/12/SB000000000074925886_1665564699_image1_S.jpeg",
+      "availableInventory": 8,
+      "rating": 1,
+      "category": "bottom"
+    },
+    {
+      "id": 1007,
+      "title": "단골스타일",
+      "name" : "EXC 와이드데님팬츠 (6컬러)",
+      "price": 90000,
+      "state": "대여가능",
+      "image": "https://image.brandi.me/cproduct/2022/10/12/SB000000000074925886_1665564699_image1_S.jpeg",
+      "availableInventory": 8,
+      "rating": 1,
+      "category": "bottom"
+      
+    },
+    {
+      "id": 1008,
+      "title": "단골스타일",
+      "name" : "EXC 와이드데님팬츠 (6컬러)",
+      "price": 90000,
+      "state": "대여중",
+      "image": "https://image.brandi.me/cproduct/2022/10/12/SB000000000074925886_1665564699_image1_S.jpeg",
+      "availableInventory": 8,
+      "rating": 1,
+      "category": "shoes"
+    },
+    {
+      "id": 1009,
+      "title": "단골스타일",
+      "name" : "EXC 와이드데님팬츠 (6컬러)",
+      "price": 90000,
+      "state": "대여가능",
+      "image": "https://image.brandi.me/cproduct/2022/10/12/SB000000000074925886_1665564699_image1_S.jpeg",
+      "availableInventory": 8,
+      "rating": 1,
+      "category": "shoes"
+    }
+  ]
+}
